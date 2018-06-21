@@ -1,8 +1,6 @@
-# Ts.ED - Basics usages
+# Simple example controllers with ts decarators 
 
-Here an example to configure your server and how to create your first controller.
-
-See [Ts.ED](https://romakita.github.io/ts-express-decorators) project for more information.
+Run it and then view swagger url provided in command line
 
 ## Install
 
@@ -17,3 +15,5 @@ npm install
 ```
 npm start
 ```
+
+See [Ts.ED](https://romakita.github.io/ts-express-decorators) project for more information.
